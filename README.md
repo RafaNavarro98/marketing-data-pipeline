@@ -20,22 +20,4 @@ O objetivo é demonstrar como coletar dados (mock ou API), calcular métricas de
 
 ---
 
-## 📂 Estrutura do projeto
-marketing-data-pipeline/
-├── main.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-├── src/
-│   ├── api_client.py
-│   ├── transform.py
-│   ├── anomaly.py
-│   ├── alerts.py
-│   ├── pipeline.py
-│   └── config.py
-├── data/
-│   └── processed/
-│       └── metrics_daily.csv
-└── reports/
-└── charts/
-└── metrics.png 
+
